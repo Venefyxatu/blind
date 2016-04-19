@@ -158,4 +158,6 @@ loadfile(theme.path .."bits/textbox/glow.lua")(theme,path)
 -- The separator theme
 require( "chopped.arrow" )
 
+theme.wallpaper = path .. "wallpaper/nihilusdesigns-d679voj.jpg"
+
 return theme
